@@ -18,4 +18,5 @@ console.log(!(5 < 6)) //false
     === Igual e do mesmo tipo 
     != Diferente de
     !== Diferente, inclusive do tipo
-    /*
+    */
+    /
