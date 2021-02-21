@@ -24,8 +24,6 @@ const alunos = [{
 //Operação usando um array
 const media = (alunos.[0].nota + alunos[1].nota + alunos.[2].nota)
 
-
-
 //Outro tipo de array
 const nomesdeAlunos = ["Mayk", "Diego", "Fulano"]
 console.log(alunos[1])
